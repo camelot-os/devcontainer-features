@@ -3,7 +3,7 @@
         "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
         "features": {
             "dtschema": {
-                "version": "2025.2"
+                "version": "2025.8"
             }
         }
     }

@@ -2,7 +2,7 @@
     "id": "dtschema",
     "version": "1.0.0",
     "name": "dt-schema (via pipx)",
-    "documentationURL": "http://github.com/embedded-ossdev/devcontainer-features/tree/main/src/dtschema",
+    "documentationURL": "http://github.com/camelot-os/devcontainer-features/tree/main/src/dtschema",
     "description": "dt-schema is a tools suite and schema data for Devicetree schema validation using the json-schema vocabulary.",
     "options": {
         "version": {

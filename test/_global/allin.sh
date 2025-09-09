@@ -22,7 +22,7 @@ echo -e "\n"
 
 # Feature-specific tests
 # The 'check' command comes from the dev-container-features-test-lib.
-check "check dtschema version" bash -c "dt-validate --version | grep '2025.2'"
+check "check dtschema version" bash -c "dt-validate --version | grep '2025.8'"
 
 
 # Report result
